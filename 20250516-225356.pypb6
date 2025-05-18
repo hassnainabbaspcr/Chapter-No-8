@@ -1,0 +1,11 @@
+Sending message: Good luck on your exam!
+Sending message: Call me when you're free.
+Sending message: Happy Birthday!
+Sending message: Don't forget the meeting at 3 PM.
+Sending message: Hey, how are you?
+
+Original messages list:
+['Hey, how are you?', "Don't forget the meeting at 3 PM.", 'Happy Birthday!', "Call me when you're free.", 'Good luck on your exam!']
+
+Sent messages list:
+['Good luck on your exam!', "Call me when you're free.", 'Happy Birthday!', "Don't forget the meeting at 3 PM.", 'Hey, how are you?']
