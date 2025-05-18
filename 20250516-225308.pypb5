@@ -1,0 +1,11 @@
+def show_messages(messages):
+    for message in messages:
+        print(message)
+text_messages = [
+    "Hey, how are you?",
+    "Don't forget the meeting at 3 PM.",
+    "Happy Birthday!",
+    "Call me when you're free.",
+    "Good luck on your exam!"
+]
+show_messages(text_messages)
